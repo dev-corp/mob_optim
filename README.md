@@ -34,9 +34,9 @@
 
 ## Challenges
 <ul>
-<li> Data collection</li>
-<li> High computational cost</li>
-<li> Difficulty in the initial phases due to pandemic</li>
+<li> Testing on multiple devices</li>
+<li> Android Version Variation</li>
+<li> Not having peers of android developers in college</li>
 </ul>
 
 ## References
